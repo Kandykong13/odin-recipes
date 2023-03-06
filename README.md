@@ -1,1 +1,1 @@
-Edit Later
+In this project i have created a recipe page featuring a main page and 3 seperate pages. In doing so I have learned the basics of: Creating the foundations of a page, Inputing images and sorting file directories, writing out a clear path for the computer to read, and commiting and pushing to git.
